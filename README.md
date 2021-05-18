@@ -1,12 +1,14 @@
 ### Hi,there 👋
 
-* I am [Rohith Reddy](https://www.linkedin.com/in/imrohith/). Currently pursuing my masters at The University of Texas at Arlington majoring in computer science :computer:.
+* Incoming Software Developer.
+
+* I am [Rohith Reddy](https://www.linkedin.com/in/imrohith/). Completed my masters at The University of Texas at Arlington majoring in computer science :computer:.
 
 * I am a Java Backend developer. 
 
 * My most recent project is Java Discord Bot built with the help of JDA API.
 
-* Currently working on Restful webservices as my side project.
+* Currently playing with bots that im building.
 
 * I love contributing to open source projects.
 
@@ -67,8 +69,8 @@
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<span><b><center>Kafka</center></b></span> 
+<img height=65px src="https://dz2cdn1.dzone.com/storage/temp/12418896-apache-kafka.png"> 
 </td>
 </tr>
 
@@ -79,8 +81,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png"> 
+<span><b><center>NodeJS</center></b></span> 
+<img height=65px src="https://nodejs.org/static/images/logo.svg"> 
 </td>
 
 <td align="center" width="20%">
