@@ -40,8 +40,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Maven</center></b></span> 
-<img height=65px src="https://maven.apache.org/images/maven-logo-black-on-white.png"> 
+<span><b><center>Jenkins</center></b></span> 
+<img height=65px src="http://cdn2.hubspot.net/hubfs/208250/jenkinslogoblogcover.png"> 
 </td>
 
 <td align="center" width="20%">
