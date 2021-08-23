@@ -1,6 +1,6 @@
 ### Hi,there 👋
 
-* Incoming Software Developer.
+*Software Developer at Citi Bank.
 
 * I am [Rohith Reddy](https://www.linkedin.com/in/imrohith/). Completed my masters at The University of Texas at Arlington majoring in computer science :computer:.
 
